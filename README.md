@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a software developer currently doing a PhD in Bergen, Norway.
+I am a software engineer currently doing a PhD in Bergen, Norway :norway:.
 
 Check my [website](https://timkraeuter.com/) for more information!
 
