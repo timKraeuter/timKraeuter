@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Tim Kräuter</h1>
-<h3 align="center">Software Engineer and PhD Candidate in Norway :norway:</h3>
+<h3 align="center">Software Engineer II at Microsoft and PhD Candidate in Norway :norway:</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=timKraeuter&label=Profile%20views&color=0e75b6&style=flat" alt="timKraeuter" /> </p>
 
